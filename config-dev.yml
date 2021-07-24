@@ -1,2 +1,2 @@
 config:
-  info: "spring cloud config-dev.yml comfig"
+  info: "spring cloud config-dev.yml comfig version = 1"
