@@ -1,2 +1,2 @@
 config:
-   spring cloud config-prod.yml comfig
+  info: "spring cloud config-prod.yml comfig"
